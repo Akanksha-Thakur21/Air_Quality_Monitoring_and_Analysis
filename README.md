@@ -61,9 +61,3 @@ Created visualizations including:
 - Cities with higher average AQI indicate more severe pollution levels.
 - AQI distribution provides an understanding of pollution frequency.
 - The top 10 polluted cities highlight areas requiring greater pollution control measures.
-
-
----
-
-## 🙏 Acknowledgement
-This project was completed as part of my Data Analytics Internship at **DevElet**, under the guidance and support of **Kishan Tiwari**.
